@@ -243,6 +243,25 @@ body, html {
     text-align: left;
 }
 
+.main-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "hsusa";
+    color: #000;
+    text-align: center;
+}
+
+.main-title-big {
+    font-size: 90px;
+    display: block;
+}
+
+.main-title-subtitle {
+    display: block;
+    font-size: 34px;
+}
 
 /* ==========================================================================
    Media Queries
