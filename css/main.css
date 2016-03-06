@@ -109,7 +109,7 @@ body, html {
     position: absolute;
     right: 0;
     top: 50%;
-    display: block;
+    display: none;
     height: 40px;
     line-height: 40px;
     margin-top: -20px;
@@ -335,6 +335,10 @@ body, html {
 @media screen and (max-width: 880px) {
     .video-outer {
         width: 100%;
+    }
+    
+    .main-nav-toggler {
+        display: block;
     }
     
     .main-nav {
