@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="epicentre" horiz-adv-x="1000" >
+<font-face font-family="epicentre" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="menu" unicode="&#xe800;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+<glyph glyph-name="instagram" unicode="&#xe801;" d="M690 350q0 26-6 50l176 0 0-344q0-56-39-96t-95-40l-592 0q-56 0-95 40t-39 96l0 344 174 0q-4-32-4-50 0-106 76-183t184-77q106 0 183 77t77 183z m36 430q56 0 95-39t39-95l0-146-218 0q-78 110-212 110-138 0-212-110l-218 0 0 146q0 56 39 95t95 39l592 0z m64-166l0 72q0 24-24 24l-72 0q-24 0-24-24l0-72q0-8 7-16t17-8l72 0q24 0 24 24z m-200-264q0-66-47-113t-113-47-113 47-47 113q0 68 47 114t113 46 113-46 47-114z" horiz-adv-x="860" />
+<glyph glyph-name="vimeo" unicode="&#xe802;" d="M896 558q-32-186-171-351t-245-237q-42-28-81-17t-66 38-43 61q-16 32-78 239t-74 223q-16 12-38 5t-44-21l-20-14-36 50q18 20 46 52t100 89 124 67q30 6 53-7t36-35 23-60 15-70 12-75 13-67q14-54 21-80t17-54 18-39 18-11q40 0 126 166 42 76 6 124t-112 2q22 126 140 188 104 54 182 8 80-46 58-174z" horiz-adv-x="901" />
+<glyph glyph-name="facebook" unicode="&#xe803;" d="M500 644l-142 0q-14 0-25-15t-11-37l0-102 178 0 0-148-178 0 0-442-170 0 0 442-152 0 0 148 152 0 0 86q0 94 59 159t147 65l142 0 0-156z" horiz-adv-x="500" />
+<glyph glyph-name="mail" unicode="&#xe804;" d="M30 586q-32 18-28 40 2 14 26 14l846 0q38 0 20-32-8-14-24-22-14-6-192-102t-182-98q-16-10-46-10-28 0-46 10-4 2-182 98t-192 102z m850-100q20 10 20-10l0-368q0-16-17-32t-33-16l-800 0q-16 0-33 16t-17 32l0 368q0 20 20 10l384-200q18-10 46-10t46 10z" horiz-adv-x="900" />
+<glyph glyph-name="phone" unicode="&#xe805;" d="M461 290q162 162 118 206l-8 8q-30 30-41 48t-4 54 49 88q20 24 37 39t35 16 30 1 29-13 24-18 26-25 21-22q48-48-6-194t-204-294q-150-150-295-205t-193-7q-2 2-23 22t-25 25-18 24-13 31 2 30 15 35 38 37q42 34 70 47t54 2 35-18 39-37q44-44 208 120z" horiz-adv-x="800" />
+<glyph glyph-name="cancel" unicode="&#xe806;" d="M799 116l-156-157-234 235-235-235-156 157 234 234-234 234 156 157 235-235 234 235 156-157-234-234z" horiz-adv-x="817" />
+</font>
+</defs>
+</svg>

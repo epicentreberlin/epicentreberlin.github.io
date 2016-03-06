@@ -63,6 +63,25 @@ strong {
     font-family: "avenirblack";
 }
 
+ .icon:before, .icon:before {
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before { content: '\e800'; } /* '' */
+.icon-instagram:before { content: '\e801'; } /* '' */
+.icon-vimeo:before { content: '\e802'; } /* '' */
+.icon-facebook:before { content: '\e803'; } /* '' */
+.icon-mail:before { content: '\e804'; } /* '' */
+.icon-phone:before { content: '\e805'; } /* '' */
+.icon-cancel:before { content: '\e806'; } /* '' */
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
@@ -84,6 +103,34 @@ body, html {
     height: 100px;
     background-color: #000;
     z-index: 100;
+}
+
+.main-nav-toggler {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    margin-top: -20px;
+    color: #fff;
+}
+
+.main-nav-toggler:hover {
+    border: 0;
+}
+
+.main-nav-toggler:before {
+    content: "\e800";
+    font-size: 43px;
+}
+
+.menu-open .main-nav-toggler:before {
+    content: "\e806";
+}
+
+.contact a:before {
+    margin-right: 10px;
 }
 
 #container {
@@ -285,7 +332,7 @@ body, html {
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 880px) {
     .video-outer {
         width: 100%;
     }
