@@ -6,4 +6,8 @@ var Menu;
         else
             document.body.classList.add("menu-open");
     };
+    Menu.To = function (id) {
+        Scroller.To(id);
+        Menu.Toggle();
+    };
 })(Menu || (Menu = {}));

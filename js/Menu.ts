@@ -5,4 +5,9 @@ module Menu {
         else
             document.body.classList.add("menu-open");
     }
+    
+    export var To = (id: string) => {
+        Scroller.To(id);
+        Toggle();
+    }
 }
