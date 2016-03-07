@@ -310,10 +310,6 @@ body, html {
     font-size: 34px;
 }
 
-.menu-open {
-    overflow: hidden;
-}
-
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -343,6 +339,10 @@ body, html {
     
     .main-nav-toggler {
         display: block;
+    }
+    
+    .menu-open {
+        overflow: hidden;
     }
     
     .main-nav {
