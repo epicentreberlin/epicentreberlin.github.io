@@ -327,6 +327,19 @@ body, html {
     border-bottom: 1px solid #000;
 }
 
+.section-buttons {
+    font-family: "hsusa";
+    font-size: 20px;
+    margin: 40px 0;
+}
+
+.section-button {
+    border-bottom: 1px solid #fff;
+    display: inline-block;
+    padding-bottom: 4px;
+    margin: 0 20px;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
