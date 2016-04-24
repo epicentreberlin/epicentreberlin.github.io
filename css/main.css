@@ -315,6 +315,11 @@ body, html {
     text-align: left;
     padding: 20px;
     border: 1px solid #fff;
+    margin: 0 auto;
+}
+
+.about .section-text {
+    border-color: #000;
 }
 
 /* ==========================================================================
