@@ -310,6 +310,13 @@ body, html {
     font-size: 34px;
 }
 
+.section-text {
+    max-width: 820px;
+    text-align: left;
+    padding: 20px;
+    border: 1px solid #fff;
+}
+
 /* ==========================================================================
    Media Queries
    ========================================================================== */
